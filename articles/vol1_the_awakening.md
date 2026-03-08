@@ -42,4 +42,4 @@ Status: Statement executed successfully.
 
 Time Elapsed: 0.079s
 
-「カタログを語る前に、君のクエリの『腹（スピル）』を絞れ」
+「カタログを語る前に、君のクエリの『腹（スピル）』を絞れ。。」

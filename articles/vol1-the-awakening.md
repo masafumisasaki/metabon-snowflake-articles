@@ -2,7 +2,7 @@
 title: "第1回：覚悟の自腹。無料枠を捨て、物理レイヤーの深淵へ"
 emoji: "❄️"
 type: "tech"
-topics: ["snowflake", "azure", "vps", "performance"]
+topics: ["snowflake", "performance"]
 published: true
 ---
 
